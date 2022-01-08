@@ -1,6 +1,6 @@
 
 # mall_app
-药品商城项目
+二手商品交易app
 
 ### 开源
 - [参考hegaojian大神项目中的图标](https://github.com/hegaojian/WanAndroid)
